@@ -1,0 +1,3 @@
+ secretWord := words[0] // Выбираем первое слово из списка
+ guessesLeft := 6
+ guessedLetters := make(map[rune]bool)
